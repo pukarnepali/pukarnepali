@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akash Nepali
+# Hi 👋, I'm Pukar Nepali
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Data+Science+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Turning+Data+Into+Insights" />
@@ -13,6 +13,8 @@
 
 ## 🚀 About Me
 
+- 🎓 BSc (Hons) Information Technology Student
+- 🌍 From Nepal 🇳🇵
 - 📊 Aspiring **Data Analyst** and **Data Scientist**
 - 🐍 Passionate about Python, SQL, statistics and machine learning
 - 📈 I enjoy cleaning messy data, exploring datasets and building dashboards
@@ -25,27 +27,26 @@
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,java,js,dart,html,css,c"/>
 </p>
 
 ### Data Science
 `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Scikit-learn` • `Jupyter` • `Excel` • `Power BI`
 
----
+### Frameworks & Libraries
 
-## 📚 Current Focus
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express" />
+</p>
 
-```text
-✔ Data Cleaning
-✔ Data Wrangling
-✔ Exploratory Data Analysis (EDA)
-✔ SQL
-✔ Dashboards
-✔ Statistics
-✔ Machine Learning
-```
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma" />
+</p>
 
 ---
+
 
 ## 📊 GitHub Stats
 
