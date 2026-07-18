@@ -126,17 +126,6 @@
 
 ---
 
-# 📂 Featured Projects
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 📊 Data Cleaning | Missing values, duplicates & outlier handling |
-| 📈 EDA Projects | Real-world data exploration |
-| 📉 Power BI Dashboard | Interactive dashboards |
-| 🗄 SQL Projects | Database analysis & queries |
-| 🤖 Machine Learning | Classification & Regression models |
-
----
 
 # 🎯 2026 Goals
 
@@ -157,20 +146,11 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add these later -->
-<!--
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/pukar-nepali-24083741a/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_KAGGLE_URL">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
-</a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
-</a>
--->
 
 </p>
 
@@ -183,5 +163,5 @@
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider giving a ⭐ to my repositories.
+⭐ Thanks for visiting my profile! 
 </p>
