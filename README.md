@@ -106,27 +106,30 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pukarnepali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarnepali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pukarnepali&theme=tokyonight"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pukarnepali&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pukarnepali&theme=tokyonight"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pukarnepali&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pukarnepali&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pukarnepali&theme=tokyonight&utcOffset=5.75"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pukarnepali&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pukarnepali&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pukarnepali&theme=tokyo-night&hide_border=true"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pukarnepali&theme=tokyonight"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pukarnepali&theme=tokyonight&utcOffset=5.75"/>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pukarnepali&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
