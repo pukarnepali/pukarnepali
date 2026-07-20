@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pukar Nepali</h1>
 
 <h3 align="center">
-📊 Data Analytics • Data Science • Machine Learning • Python
+📊 Data Analytics • 🤖 Artificial Intelligence • 🧠 Machine Learning • 🐍 Python
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Turning+Data+Into+Insights.;Aspiring+Data+Analyst.;Python+%7C+SQL+%7C+Power+BI.;Machine+Learning+Enthusiast.;Always+Learning+New+Things." />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Insights.;Aspiring+Data+Analyst+%26+AI%2FML+Engineer.;Python+%7C+SQL+%7C+Power+BI.;Machine+Learning+Enthusiast.;Currently+Learning+AI+%26+ML.;Always+Learning+New+Things." />
 </p>
 
 <p align="center">
@@ -16,29 +16,39 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 BSc (Hons) Information Technology Student
-- 🇳🇵 Based in Nepal
-- 📊 Passionate about Data Analytics & Data Science
-- 🐍 Working with Python to solve real-world data problems
-- 📈 Interested in Data Cleaning, EDA, Visualization & Machine Learning
-- 🌱 Currently improving my SQL, Power BI and Scikit-learn skills
-- 💡 I believe **every dataset tells a story.**
+🎓 BSc (Hons) Information Technology Student
+
+🇳🇵 Based in Nepal
+
+📊 Passionate about Data Analytics, Artificial Intelligence & Machine Learning
+
+🐍 Solving real-world problems using Python and Data
+
+📈 Interested in Data Cleaning, EDA, Visualization, Predictive Analytics and AI
+
+🤖 Currently pursuing an **AI & Machine Learning Course** while building hands-on projects
+
+🌱 Continuously improving SQL, Power BI, Scikit-learn, Statistics and Deep Learning fundamentals
+
+💡 **I believe every dataset tells a story—and AI helps uncover the next chapter.**
 
 ---
 
 # 🛠 Tech Stack
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,mysql" />
 </p>
 
-### 📊 Data Analytics
+---
 
-<p align="left">
+## 📊 Data Analytics
+
+<p>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -58,13 +68,35 @@
 
 </p>
 
-### ⚙️ Tools
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Statistics-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Preprocessing-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-7952B3?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ⚙️ Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-### 📱 Other Skills
+---
+
+## 📱 Other Skills
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express" />
@@ -75,34 +107,59 @@
 # 🌱 Currently Working On
 
 - 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Preprocessing
-- 📈 Data Visualization
-- 🗄 SQL Queries
+- 🧹 Data Cleaning & Feature Engineering
+- 📈 Interactive Data Visualization
+- 🗄 Advanced SQL
 - 📊 Power BI Dashboards
-- 🤖 Machine Learning Fundamentals
+- 🤖 Machine Learning Projects
+- 🧠 AI & Machine Learning Course
+- 📚 Statistics for Data Science
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-✔ Statistics for Data Science
+✔ Python for Data Science
+
+✔ Statistics & Probability
+
 ✔ Advanced SQL
+
 ✔ Power BI
+
 ✔ Machine Learning
+
+✔ Artificial Intelligence
+
+✔ Scikit-learn
+
 ✔ Feature Engineering
+
 ✔ Model Evaluation
+
+✔ Deep Learning Fundamentals
 ```
 
 ---
 
 # 📊 GitHub Statistics
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=pukarnepali&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=pukarnepali&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarnepali&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -112,46 +169,47 @@
 
 </p>
 
-
-
 ---
-
 
 # 🎯 2026 Goals
 
-- 🚀 Build **30+ Data Analytics Projects**
+- 🚀 Build **30+ Data Analytics & AI Projects**
 - 📊 Master SQL
 - 📈 Become proficient in Power BI
-- 🤖 Learn Machine Learning
-- 🏆 Earn Data Analytics certifications
+- 🤖 Master Machine Learning Fundamentals
+- 🧠 Learn Deep Learning & Neural Networks
+- 🏆 Earn AI, ML & Data Analytics Certifications
 - 🌍 Contribute to Open Source
+- 💼 Land a Data Analyst / AI-ML Internship
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://github.com/pukarnepali">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/pukar-nepali-24083741a/" target="_blank">
+<a href="https://www.linkedin.com/in/pukar-nepali-24083741a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
 
 </p>
 
 ---
 
-# 💬 Quote
+# 💬 Favorite Quote
 
 > **"Data is a tool for enhancing intuition."** — Hilary Mason
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! 
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's build something amazing with Data & AI. 🚀**
+
 </p>
