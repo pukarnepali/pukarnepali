@@ -106,11 +106,6 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pukarnepali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarnepali&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
 
