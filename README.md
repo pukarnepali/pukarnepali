@@ -106,7 +106,7 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -156,13 +156,4 @@
 
 ---
 
-# 💬 Quote
 
-> **"Data is a tool for enhancing intuition."** — Hilary Mason
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! <br>
-🚀 Let's build amazing things with Data & AI.
-</p>
