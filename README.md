@@ -1,4 +1,4 @@
-<h1 align="center">Hi!, I'm Pukar Nepali</h1>
+<h1 align="center">Hi, I'm Pukar Nepali</h1>
 
 <h3 align="center">
 Data Analytics • Artificial Intelligence • Machine Learning • Python
