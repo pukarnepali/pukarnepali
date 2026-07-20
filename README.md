@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pukar Nepali</h1>
+<h1 align="center">Hi!, I'm Pukar Nepali</h1>
 
 <h3 align="center">
-📊 Data Analytics • 🤖 Artificial Intelligence • 🧠 Machine Learning • 🐍 Python
+Data Analytics • Artificial Intelligence • Machine Learning • Python
 </h3>
 
 <p align="center">
@@ -16,28 +16,28 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🎓 BSc (Hons) Information Technology Student
-- 🇳🇵 Based in Nepal
-- 📊 Passionate about Data Analytics, AI & Machine Learning
-- 🐍 Solving real-world problems using Python
-- 📈 Interested in Data Cleaning, EDA, Visualization & Predictive Analytics
-- 🤖 Currently pursuing an AI & Machine Learning course
-- 🌱 Learning SQL, Power BI, Scikit-learn, Statistics and Deep Learning
-- 💡 *"Every dataset tells a story."*
+- BSc (Hons) Information Technology Student
+- Based in Nepal
+- Passionate about Data Analytics, AI & Machine Learning
+- Solving real-world problems using Python
+- Interested in Data Cleaning, EDA, Visualization & Predictive Analytics
+- Currently pursuing an AI & Machine Learning course
+- Learning SQL, Power BI, Scikit-learn, Statistics and Deep Learning
+- *"Every dataset tells a story."*
 
 ---
 
-# 🛠 Tech Stack
+# Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,mysql"/>
 </p>
 
-### 📊 Data Analytics
+### Data Analytics
 
 <p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-### 🤖 AI / ML
+### AI / ML
 
 <p>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
@@ -59,13 +59,13 @@
 <img src="https://img.shields.io/badge/Feature%20Engineering-7952B3?style=for-the-badge"/>
 </p>
 
-### ⚙️ Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
-### 📱 Other Skills
+### Other Skills
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express"/>
@@ -73,20 +73,20 @@
 
 ---
 
-# 🌱 Currently Working On
+# Currently Working On
 
-- 📊 Exploratory Data Analysis (EDA)
-- 🧹 Data Cleaning & Feature Engineering
-- 📈 Data Visualization
-- 🗄 Advanced SQL
-- 📊 Power BI Dashboards
-- 🤖 Machine Learning Projects
-- 🧠 AI & Machine Learning Course
-- 📚 Statistics for Data Science
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Data Visualization
+- Advanced SQL
+- Power BI Dashboards
+- Machine Learning Projects
+- AI & Machine Learning Course
+- Statistics for Data Science
 
 ---
 
-# 📚 Currently Learning
+# Currently Learning
 
 ```text
 ✔ Python for Data Science
@@ -103,7 +103,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
@@ -129,20 +129,20 @@
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- 🚀 Build 30+ Data Analytics & AI Projects
-- 📊 Master SQL
-- 📈 Become proficient in Power BI
-- 🤖 Master Machine Learning
-- 🧠 Learn Deep Learning
-- 🏆 Earn AI & Data Analytics Certifications
-- 🌍 Contribute to Open Source
-- 💼 Land a Data Analyst / AI-ML Internship
+- Build 30+ Data Analytics & AI Projects
+- Master SQL
+- Become proficient in Power BI
+- Master Machine Learning
+- Learn Deep Learning
+- Earn AI & Data Analytics Certifications
+- Contribute to Open Source
+- Land a Data Analyst / AI-ML Internship
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <p>
 <a href="https://github.com/pukarnepali">
