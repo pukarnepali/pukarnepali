@@ -40,42 +40,12 @@ Most of the projects on my profile are things I'm **building while learning**.
 
 ## What I'm Working On
 
-<table align = "center" border = "0">
-<tr>
-<td width="33%" align="center">
+|  Focus |  Areas |
+|:---|:---|
+|  **Data** | Data Cleaning · EDA · Visualization · SQL |
+|  **Machine Learning** | Regression · Classification · Feature Engineering · Model Evaluation |
+|  **Business Intelligence** | Power BI · Dashboards · Reports · Data Storytelling |
 
-**DATA**
-
-• Data Cleaning  
-• EDA  
-• Visualization  
-• SQL  
-
-</td>
-
-<td width="33%" align="center">
-
-**MACHINE LEARNING**
-
-• Regression  
-• Classification  
-• Feature Engineering  
-• Model Evaluation  
-
-</td>
-
-<td width="33%" align="center">
-
-**BUSINESS INTELLIGENCE**
-
-• Power BI  
-• Dashboards  
-• Reports  
-• Data Storytelling  
-
-</td>
-</tr>
-</table>
 
 ---
 
