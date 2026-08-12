@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=300&section=header&text=Pukar%20Nepali&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Data%20Analytics%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=620&lines=IT+Student;Data+Analytics+Learner;Python+%7C+SQL+%7C+Power+BI;Exploring+Machine+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=27&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=620&lines=IT+Student;Data+Analytics+Learner;Python+%7C+SQL+%7C+Power+BI;Exploring+Machine+Learning" />
 
 </div>
 
