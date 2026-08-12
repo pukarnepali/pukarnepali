@@ -24,7 +24,7 @@ Most of the projects on my profile are things I'm **building while learning**.
 
 <img src="https://skillicons.dev/icons?i=python,mysql,java,js,html,css,git,github,vscode&theme=dark&perline=9"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-222222?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-222222?style=flat-square&logo=numpy&logoColor=white"/>
