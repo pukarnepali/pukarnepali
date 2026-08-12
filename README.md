@@ -42,9 +42,9 @@ Most of the projects on my profile are things I'm **building while learning**.
 
 |  Focus |  Areas |
 |:---|:---|
-|  **Data** | Data Cleaning · EDA · Visualization · SQL |
-|  **Machine Learning** | Regression · Classification · Feature Engineering · Model Evaluation |
-|  **Business Intelligence** | Power BI · Dashboards · Reports · Data Storytelling |
+|  **Data** | · Data Cleaning · EDA · Visualization · SQL |
+|  **Machine Learning** | · Regression · Classification · Feature Engineering · Model Evaluation |
+|  **Business Intelligence** | · Power BI · Dashboards · Reports · Data Storytelling |
 
 
 ---
