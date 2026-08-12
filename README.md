@@ -40,16 +40,16 @@ Most of the projects on my profile are things I'm **building while learning**.
 
 ## What I'm Working On
 
-<table align = "center">
+<table align = "center" border = "0">
 <tr>
 <td width="33%" align="center">
 
 **DATA**
 
-Data Cleaning  
-EDA  
-Visualization  
-SQL  
+• Data Cleaning  
+• EDA  
+• Visualization  
+• SQL  
 
 </td>
 
@@ -57,10 +57,10 @@ SQL
 
 **MACHINE LEARNING**
 
-Regression  
-Classification  
-Feature Engineering  
-Model Evaluation  
+• Regression  
+• Classification  
+• Feature Engineering  
+• Model Evaluation  
 
 </td>
 
@@ -68,10 +68,10 @@ Model Evaluation
 
 **BUSINESS INTELLIGENCE**
 
-Power BI  
-Dashboards  
-Reports  
-Data Storytelling  
+• Power BI  
+• Dashboards  
+• Reports  
+• Data Storytelling  
 
 </td>
 </tr>
