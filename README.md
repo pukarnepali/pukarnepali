@@ -40,7 +40,7 @@ Most of the projects on my profile are things I'm **building while learning**.
 
 ## What I'm Working On
 
-<table align = "centre">
+<table align = "center">
 <tr>
 <td width="33%" align="center">
 
