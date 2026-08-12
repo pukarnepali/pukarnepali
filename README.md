@@ -1,159 +1,128 @@
-<h1 align="center">Hi, I'm Pukar Nepali</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analytics • Artificial Intelligence • Machine Learning • Python
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:222222&height=300&section=header&text=Pukar%20Nepali&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Data%20Analytics%20%7C%20Python%20%7C%20Machine%20Learning&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Insights.;Aspiring+Data+Analyst+%26+AI%2FML+Engineer.;Python+%7C+SQL+%7C+Power+BI.;Machine+Learning+Enthusiast.;Currently+Learning+AI+%26+ML.;Always+Learning+New+Things." />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=IT+Student;Data+Analytics+Learner;Python+%7C+SQL+%7C+Power+BI;Exploring+Machine+Learning" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pukarnepali&label=Profile+Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/pukarnepali?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/pukarnepali?affiliations=OWNER&style=social" />
-</p>
+</div>
 
----
+## About
 
-## About Me
+Hi, I'm **Pukar**, an IT student from Nepal.
 
-- BSc (Hons) Information Technology Student
-- Based in Nepal
-- Passionate about Data Analytics, AI & Machine Learning
-- Solving real-world problems using Python
-- Interested in Data Cleaning, EDA, Visualization & Predictive Analytics
-- Currently pursuing an AI & Machine Learning course
-- Learning SQL, Power BI, Scikit-learn, Statistics and Deep Learning
-- *"Every dataset tells a story."*
+I'm currently focused on **Data Analytics and Machine Learning**, with Python as my main tool.
+
+I enjoy working with datasets, cleaning and exploring data, building visualizations, and understanding how machine learning models work.
+
+Most of the projects on my profile are things I'm **building while learning**.
 
 ---
 
-# Tech Stack
+## Skills
 
-### Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,c,mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,mysql,java,js,html,css,git,github,vscode&theme=dark&perline=9"/>
 
-### Data Analytics
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Pandas-222222?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-222222?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-222222?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-222222?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-222222?style=flat-square&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-222222?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 
-### AI / ML
-
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Statistics-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-7952B3?style=for-the-badge"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-</p>
-
-### Other Skills
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,nodejs,express"/>
-</p>
+</div>
 
 ---
 
-# Currently Working On
+## What I'm Working On
 
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Feature Engineering
-- Data Visualization
-- Advanced SQL
-- Power BI Dashboards
-- Machine Learning Projects
-- AI & Machine Learning Course
-- Statistics for Data Science
+<table align = "centre">
+<tr>
+<td width="33%" align="center">
 
----
+**DATA**
 
-# Currently Learning
+Data Cleaning  
+EDA  
+Visualization  
+SQL  
 
-```text
-✔ Python for Data Science
-✔ Statistics & Probability
-✔ Advanced SQL
-✔ Power BI
-✔ Machine Learning
-✔ Artificial Intelligence
-✔ Scikit-learn
-✔ Feature Engineering
-✔ Model Evaluation
-✔ Deep Learning Fundamentals
-```
+</td>
 
----
+<td width="33%" align="center">
 
-# GitHub Statistics
+**MACHINE LEARNING**
 
-<p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pukarnepali&theme=tokyonight&hide_border=true"/>
-</p>
+Regression  
+Classification  
+Feature Engineering  
+Model Evaluation  
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pukarnepali&theme=tokyonight"/>
-</p>
+</td>
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pukarnepali&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pukarnepali&theme=tokyonight"/>
-</p>
+<td width="33%" align="center">
 
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pukarnepali&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pukarnepali&theme=tokyonight&utcOffset=5.75"/>
-</p>
+**BUSINESS INTELLIGENCE**
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pukarnepali&theme=tokyo-night&hide_border=true"/>
-</p>
+Power BI  
+Dashboards  
+Reports  
+Data Storytelling  
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 2026 Goals
+## GitHub Activity
 
-- Build 30+ Data Analytics & AI Projects
-- Master SQL
-- Become proficient in Power BI
-- Master Machine Learning
-- Learn Deep Learning
-- Earn AI & Data Analytics Certifications
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pukarnepali&bg_color=0D1117&color=FFFFFF&line=666666&point=FFFFFF&area=true&area_color=222222&hide_border=true"/>
+
+<br>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=pukarnepali&theme=github-dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&dates=666666"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pukarnepali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"/>
+
+<p align="center">
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pukarnepali&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=AAAAAA"/>
+</p>
+</div>
+
+---
+
+## 2026 Focus
+
+> **Building practical skills through consistent projects.**
+
+- Strengthen SQL
+- Build advanced Power BI dashboards
+- Develop end-to-end ML projects
+- Learn Deep Learning fundamentals
 - Contribute to Open Source
-- Land a Data Analyst / AI-ML Internship
+- Find an internship / entry-level opportunity
 
 ---
 
-# Connect With Me
+<div align="center">
 
-<p>
+### Let's Connect
+
 <a href="https://github.com/pukarnepali">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pukar-nepali-24083741a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
+</div>
 
----
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,50:111111,100:000000&height=120&section=footer" width="100%"/>
